@@ -20,15 +20,15 @@ Reviewing IPL data to understand player performance and metrics.
 #### Batters: 
 Identify aggressive, anchor, and hard-hitting batsmen.
 #### Bowlers: 
-Find economical and wicket-taking bowlers.
+Finding economical and wicket-taking bowlers.
 #### All-Rounders: 
-Select players with strong batting and bowling strike rates.
+Selecting players with strong batting and bowling strike rates.
 #### Wicketkeepers: 
-Choose wicketkeepers who can contribute both defensively and with the bat.
+Choosing wicketkeepers who can contribute both defensively and with the bat.
 ### Auction Strategy: 
-Develop a plan for bidding, including setting limits and prioritizing key players.
+Developing a plan for bidding, including setting limits and prioritizing key players.
 ### Visualization: 
-Create graphs, tables, and charts to present findings and recommendations.
+Creating graphs, tables, and charts to present findings and recommendations.
 
 ## Deliverables
 Analysis and profiling of players
