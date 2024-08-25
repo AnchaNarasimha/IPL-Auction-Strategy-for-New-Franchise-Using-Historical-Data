@@ -18,7 +18,7 @@ Creating a flexible target list to ensure effective budget allocation during the
 Reviewing IPL data to understand player performance and metrics.
 ### Player Selection:
 #### Batters: 
-Identify aggressive, anchor, and hard-hitting batsmen.
+Identifying aggressive, anchor, and hard-hitting batsmen.
 #### Bowlers: 
 Finding economical and wicket-taking bowlers.
 #### All-Rounders: 
